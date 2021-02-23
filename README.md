@@ -8,11 +8,13 @@ Full-length transcriptome splicing and mutation analysis
 
 This is the version of FLAMES used in the following paper:
 
-The long and the short of it: unlocking nanopore long-read RNA sequencing data with short-read tools
+**The long and the short of it: unlocking nanopore long-read RNA sequencing data with short-read tools**
 Xueyi Dong, Luyi Tian, Quentin Gouil, Hasaru Kariyawasam, Shian Su, Ricardo De Paoli-Iseppi, Yair David Joseph Prawer, Michael B. Clark, Kelsey Breslin, Megan Iminitoff, Marnie E. Blewitt, Charity W. Law, Matthew E. Ritchie
 bioRxiv 2020.06.28.176727; doi: https://doi.org/10.1101/2020.06.28.176727
 
 To see most recent update of FLAMES, please go to [this repository](https://github.com/LuyiTian/FLAMES).
+
+---
 
 # Installation
 
